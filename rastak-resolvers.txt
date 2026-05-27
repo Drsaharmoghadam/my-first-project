@@ -1,0 +1,34 @@
+# Rastak Resolver List
+# Public DNS resolver endpoints for CoreForge testing
+# Use this file as a raw resolver list URL
+
+# Cloudflare
+https://cloudflare-dns.com/dns-query
+https://1.1.1.1/dns-query
+https://1.0.0.1/dns-query
+
+# Google
+https://dns.google/dns-query
+https://8.8.8.8/dns-query
+https://8.8.4.4/dns-query
+
+# Quad9
+https://dns.quad9.net/dns-query
+https://9.9.9.9/dns-query
+https://149.112.112.112/dns-query
+
+# AdGuard DNS
+https://dns.adguard-dns.com/dns-query
+https://unfiltered.adguard-dns.com/dns-query
+
+# CleanBrowsing Security
+https://security-filter-dns.cleanbrowsing.org/dns-query
+
+# DNS.SB
+https://doh.dns.sb/dns-query
+
+# Mullvad DNS
+https://dns.mullvad.net/dns-query
+
+# Control D Unfiltered
+https://freedns.controld.com/p0
